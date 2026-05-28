@@ -4,7 +4,7 @@
 Catálogo de bandas de rock e metal dos anos 80 até hoje.
 
 ## Integrantes
-- **Aluno 1:** Thiago Smerdeck Pereira — 201917145000000
+- **Aluno 1:** Thiago S****** Pereira — 000000
 - **Aluno 2:** Claudio Antropico da Silva — Matrícula: 202303
 
 ## Descrição
